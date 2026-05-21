@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "realms": [
+    {
+      "id": 1,
+      "name": "Dev-202606",
+      "ip": "10.5.0.25",
+      "port": 8080,
+      "env": "DEV"
+    },
+    {
+      "id": 2,
+      "name": "Staging-TW",
+      "ip": "10.20.30.43",
+      "port": 8888,
+      "env": "STG"
+    },
+    {
+      "id": 3,
+      "name": "Prod-TW",
+      "ip": "11.22.33.44",
+      "port": 9999,
+      "env": "PROD"
+    }
+  ]
+}
