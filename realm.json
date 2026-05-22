@@ -1,28 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "realms": [
     {
       "name": "Dev_202606",
-      "ip": "10.5.0.25",
-      "port": 8080,
-      "env": "DEV"
-    },
-    {
-      "name": "Dev_BBBB",
-      "ip": "10.5.0.21",
-      "port": 8080,
+      "url": "10.5.0.25:8080",
       "env": "DEV"
     },
     {
       "name": "Staging_TW",
-      "ip": "11.22.33.44",
-      "port": 5555,
+      "url": "11.22.33.44:5555",
       "env": "STG"
     },
     {
       "name": "Prod_TW",
-      "ip": "99.88.77.66",
-      "port": 5555,
+      "url": "https://pokerfever.com/",
       "env": "PROD"
     }
   ]
