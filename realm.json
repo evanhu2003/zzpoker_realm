@@ -2,7 +2,7 @@
   "version": 2,
   "realms": [
     {
-      "name": "Dev_202606",
+      "name": "Dev_Z0",
       "url": "10.5.0.22:8080",
       "env": "DEV"
     },
